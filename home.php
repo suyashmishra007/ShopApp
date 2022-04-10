@@ -141,7 +141,7 @@
                     <img src="newImg/phone.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>India</h3>
+                    <h3>Phone</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
                     <a href="book.php" class="btn">order now</a>
                 </div>
@@ -152,7 +152,7 @@
                     <img src="newImg/laptop.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>Europe</h3>
+                    <h3>Laptop</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
                     <a href="book.php" class="btn">order now</a>
                 </div>
@@ -163,7 +163,7 @@
                     <img src="newImg/camera.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>Asia</h3>
+                    <h3>Camera</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
                     <a href="book.php" class="btn">order now</a>
                 </div>
@@ -188,7 +188,6 @@
     </section>
 
     <!-- home offer section ends -->
-
 
     <!-- footer section starts  -->
 

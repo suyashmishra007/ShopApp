@@ -40,20 +40,16 @@
     <section class="about">
 
         <div class="image">
-            <img src="img/dp1.jpg" alt="">
+            <img src="newImg/a1.jpg" alt="">
         </div>
 
         <div class="content">
             <h3>why choose us?</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi
-                libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.
-            </p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam
-                quaerat iusto repellendus error nulla ab atque.</p>
+            <p>ShopApp brings you an platform where you can buy your Gadgets orders at discounted rates.</p>
             <div class="icons-container">
                 <div class="icons">
                     <i class="fas fa-map"></i>
-                    <span>top destinations</span>
+                    <span>top products</span>
                 </div>
                 <div class="icons">
                     <i class="fas fa-hand-holding-usd"></i>
@@ -92,7 +88,6 @@
                         magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis.
                         Molestiae qui distinctio possimus?</p>
                     <h3>john deo</h3>
-                    <span>traveler</span>
                     <img src="images/pic-1.png" alt="">
                 </div>
 
@@ -106,7 +101,6 @@
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio
                         similique totam aut laborum ullam sequi! In!</p>
                     <h3>john deo</h3>
-                    <span>traveler</span>
                     <img src="images/pic-2.png" alt="">
                 </div>
 
@@ -121,7 +115,6 @@
                         distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!
                     </p>
                     <h3>john deo</h3>
-                    <span>traveler</span>
                     <img src="images/pic-3.png" alt="">
                 </div>
 
@@ -136,7 +129,6 @@
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio
                         dignissimos nemo?</p>
                     <h3>john deo</h3>
-                    <span>traveler</span>
                     <img src="images/pic-4.png" alt="">
                 </div>
 
@@ -150,7 +142,6 @@
                         magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis.
                         Molestiae qui distinctio possimus?</p>
                     <h3>john deo</h3>
-                    <span>traveler</span>
                     <img src="images/pic-5.png" alt="">
                 </div>
 
@@ -165,7 +156,6 @@
                         magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis.
                         Molestiae qui distinctio possimus?</p>
                     <h3>john deo</h3>
-                    <span>traveler</span>
                     <img src="images/pic-6.png" alt="">
                 </div>
 
