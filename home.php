@@ -29,7 +29,7 @@
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="package.php">product</a>
+            <a href="product.php">product</a>
             <a href="book.php">book</a>
         </nav>
 
@@ -48,19 +48,19 @@
 
                 <div class="swiper-slide slide" style="background:url(newImg/hs1.jpg) no-repeat">
                     <div class="content">
-                        <a href="package.php" class="btn">discover more</a>
+                        <a href="product.php" class="btn">discover more</a>
                     </div>
                 </div>
 
                 <div class="swiper-slide slide" style="background:url(newImg/hs2.jpg) no-repeat">
                     <div class="content">
-                        <a href="package.php" class="btn">discover more</a>
+                        <a href="product.php" class="btn">discover more</a>
                     </div>
                 </div>
 
                 <div class="swiper-slide slide" style="background:url(newImg/hs3.jpg) no-repeat">
                     <div class="content">
-                        <a href="package.php" class="btn">discover more</a>
+                        <a href="product.php" class="btn">discover more</a>
                     </div>
                 </div>
 
@@ -129,9 +129,9 @@
 
     <!-- home about section ends -->
 
-    <!-- home packages section starts  -->
+    <!-- home products section starts  -->
 
-    <section class="home-packages">
+    <section class="home-products">
 
         <h1 class="heading-title"> our products </h1>
 
@@ -170,11 +170,11 @@
             </div>
         </div>
 
-        <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
+        <div class="load-more"> <a href="product.php" class="btn">load more</a> </div>
 
     </section>
 
-    <!-- home packages section ends -->
+    <!-- home products section ends -->
 
     <!-- home offer section starts  -->
 
@@ -199,7 +199,7 @@
                 <h3>quick links</h3>
                 <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
                 <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-                <a href="package.php"> <i class="fas fa-angle-right"></i> product</a>
+                <a href="product.php"> <i class="fas fa-angle-right"></i> product</a>
                 <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
             </div>
 
