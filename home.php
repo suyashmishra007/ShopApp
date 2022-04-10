@@ -199,7 +199,7 @@
                 <h3>quick links</h3>
                 <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
                 <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-                <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+                <a href="package.php"> <i class="fas fa-angle-right"></i> product</a>
                 <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
             </div>
 

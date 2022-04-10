@@ -29,7 +29,7 @@
         <nav class="navbar">
             <a href="home.php">home</a>
             <a href="about.php">about</a>
-            <a href="package.php">package</a>
+            <a href="package.php">product</a>
             <a href="book.php">book</a>
         </nav>
 
@@ -38,22 +38,53 @@
     </section>
 
 
-
-
     <!-- packages section starts  -->
 
     <section class="packages">
 
-        <h1 class="heading-title">top destinations</h1>
+        <h1 class="heading-title">top products</h1>
 
         <div class="box-container">
 
             <div class="box">
                 <div class="image">
-                    <img src="images/img-1.jpg" alt="">
+                    <img src="newImg/phone.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>India</h3>
+                    <h3>Phone</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+                    <a href="book.php" class="btn">order now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="newImg/laptop.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Laptop</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+                    <a href="book.php" class="btn">order now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="newImg/camera.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Camera</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+                    <a href="book.php" class="btn">order now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="newImg/tv.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Television</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
@@ -61,10 +92,10 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="img/europe.jpg" alt="">
+                    <img src="newImg/watch.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>Europe</h3>
+                    <h3>Watch</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
@@ -72,43 +103,10 @@
 
             <div class="box">
                 <div class="image">
-                    <img src="img/asia.jpg" alt="">
+                    <img src="newImg/hp.jpg" alt="">
                 </div>
                 <div class="content">
-                    <h3>Asia</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-                    <a href="book.php" class="btn">book now</a>
-                </div>
-            </div>
-
-            <div class="box">
-                <div class="image">
-                    <img src="img/NA.jpg" alt="">
-                </div>
-                <div class="content">
-                    <h3>North America</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-                    <a href="book.php" class="btn">book now</a>
-                </div>
-            </div>
-
-            <div class="box">
-                <div class="image">
-                    <img src="img/SA.jpg" alt="">
-                </div>
-                <div class="content">
-                    <h3>South America</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-                    <a href="book.php" class="btn">book now</a>
-                </div>
-            </div>
-
-            <div class="box">
-                <div class="image">
-                    <img src="img/aus.jpg" alt="">
-                </div>
-                <div class="content">
-                    <h3>Australia</h3>
+                    <h3>Head Phones</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
                     <a href="book.php" class="btn">book now</a>
                 </div>
@@ -145,7 +143,7 @@
                 <h3>quick links</h3>
                 <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
                 <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
-                <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+                <a href="package.php"> <i class="fas fa-angle-right"></i> product</a>
                 <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
             </div>
 
